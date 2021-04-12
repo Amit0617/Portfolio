@@ -1,10 +1,9 @@
 .name{
-  color: red;
+  color :#ffffff;
 }
 body{
   padding: 40px;
-  background-color: #121212;
-      background-image: linear-gradient(140deg, #EADEDB, #BC70A4, #BFD641);
+  background-color: #121212;  
 }
 
 p {
@@ -17,14 +16,14 @@ p {
 }
 
 /* Animation */
-p {
-  animation: animated-text 9s steps(80,end) 1s 1 normal both, animated-cursor 300ms steps(80,end) infinite;
+p { 
+  animation: animated-text 10s steps(66,end) 1s 1 normal both,animated-cursor 750ms steps(66,end) infinite;
 }
 
 /* text animation */
 @keyframes animated-text{
   from{width: 0;}
-  to{width: 919px;}
+  to{width: 920px;}
 }
 
 /* cursor animations */
