@@ -46,4 +46,9 @@ p {
 .column {
   flex: 33.33%;
   padding: 5px;
+  transition: transform .5s;
+}
+
+.column:hover {
+  transform: scale(1.2);
 }
