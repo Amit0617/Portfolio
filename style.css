@@ -3,7 +3,7 @@
 }
 body{
   padding: 40px;
-  background-color: #121212;  
+  background-color: #ffffff;  
 }
 
 p {
@@ -30,4 +30,20 @@ p {
 @keyframes animated-cursor{
   from{border-right-color:#000000;}
   to{border-right-color: transparent;}
+}
+
+
+/*https://www.w3schools.com/howto/howto_css_images_side_by_side.asp*/
+* {
+  box-sizing: border-box;
+}
+
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */  
+.column {
+  flex: 33.33%;
+  padding: 5px;
 }
