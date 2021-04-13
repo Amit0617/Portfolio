@@ -12,12 +12,12 @@ p {
   overflow: hidden;    
   font-family: cursive;  
   font-size: 28px;
-  color: #43B7e9;
+  color: #000000;
 }
 
 /* Animation */
 p { 
-  animation: animated-text 10s steps(66,end) 1s 1 normal both,animated-cursor 750ms steps(66,end) infinite;
+  animation: animated-text 10s steps(66,end) 2s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
 }
 
 /* text animation */
