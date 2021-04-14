@@ -46,9 +46,25 @@ p {
 .column {
   flex: 33.33%;
   padding: 5px;
+  border-radius: 15px;
+  border-bottom-color: #663399;
   transition: transform .5s;
+  opacity: 0.2;
 }
 
+/* Adds zoom and visibilty on hovering the mouse cursor*/
 .column:hover {
-  transform: scale(1.2);
+  transform: scale(1.1);
+  opacity: 1;
+}
+
+h3 {
+  color: #006ac1;
+  padding:20px;
+  max-width: 100%;
+  opacity: 0;
+}
+
+h3:hover {
+  opacity: 1;
 }
