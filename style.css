@@ -1,6 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
+/* Hello developers...*/
+
+
+
+
+
 body{
   padding: 40px;
   background-color: #ffffff;  
@@ -75,4 +81,10 @@ h3:hover {
 h2 {
   font-family: 'Lobster', cursive;
   font-size: 64px;
+  text-decoration: underline overline;
+}
+
+h1 {
+   font-family: 'Lobster', cursive;
+   text-decoration: double underline;
 }
