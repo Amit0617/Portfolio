@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
 .name{
   color :#ffffff;
 }
@@ -43,7 +45,7 @@ p {
 
 /* Create three equal columns that sits next to each other */  
 .column {
-  flex: 33.33%;
+  flex: 30%;
   padding: 5px;
   box-shadow: 0 4px 8px 0;
   border-radius: 15px;
@@ -60,11 +62,17 @@ p {
 
 h3 {
   color: #006ac1;
-  padding:20px;
+  padding:10px;
   max-width: 100%;
   opacity: 0;
 }
 
 h3:hover {
   opacity: 1;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Lobster', cursive;
+  font-size: 64px;
 }
