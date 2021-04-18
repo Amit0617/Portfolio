@@ -150,4 +150,7 @@ h1 {
   text-align: center;
   background-color: 1B85A6;
   color: #DBD7CE;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
