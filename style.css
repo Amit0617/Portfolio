@@ -144,7 +144,6 @@ h1 {
   font-family: monospace, monospace; !important 
   background-color: #1B85A6;
   color: #DBD7CE;
-  text-align: center;
 }
 
 .gumrah {
@@ -155,5 +154,6 @@ h1 {
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
+  background-color: rgb(255 0 0);
+  text-align: center;
 }
