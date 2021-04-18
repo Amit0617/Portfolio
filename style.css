@@ -105,21 +105,19 @@ h3 {
   font-family: 'Indie Flower', cursive;
   font-size: 40px;
   transition: 1s ease;
+  text-align: center;
 }
 
 .column:hover h3 {
   opacity: 1;
-  text-align: center;
 }
 
 .column1:hover h3 {
   opacity: 1;
-  text-align: center;
 }
 
 .column2:hover h3 {
   opacity: 1;
-  text-align: center;
 }
 
 h2 {
