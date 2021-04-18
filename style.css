@@ -145,6 +145,7 @@ h1 {
 }
 
 footer {
+  display: block;
   position: fixed;
   text-align: center;
   background-color: 1B85A6;
