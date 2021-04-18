@@ -15,7 +15,7 @@ p {
   white-space: nowrap;
   overflow: hidden;    
   font-family: cursive;  
-  font-size: 28px;
+  font-size: 35px;
   color: #000000;
   animation: animated-text 10s steps(66,end) 1s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
 }
@@ -143,13 +143,20 @@ h1 {
 .copyright {
   font-family: monospace, monospace; !important 
   color: #DBD7CE; 
-  font-size: 10px;
+  font-size: 20px;
+  animation: copyright 4s infinite alternate;
 }
+
+@keyframes {
+  from {width: 0px;}
+  to {width: 100%;}
+}
+
 
 .gumrah {
   display: block;
   position: absolute;
-  height: 150px;
+  height: 70px;
   left: 0;
   bottom: 0;
   width: 100%;
