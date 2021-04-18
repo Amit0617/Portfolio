@@ -148,9 +148,9 @@ h1 {
   display: block;
   position: fixed;
   text-align: center;
-  background-color: 1B85A6;
+  background-color: #1B85A6;
   color: #DBD7CE;
   left: 0;
   bottom: 0;
-  width: 100%;
+  max-width: 100%;
 }
