@@ -1,10 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
 
-/* Hello developers...*/
-
-
-
+/* Hello developer, nice to see you. I appreciate your efforts of learning. I have tried to do very descriptive commenting for each and every piece of code. even I have given
+the link reference for your ease. Hope you find it helpful.😇 */
 
 
 body{
@@ -23,7 +21,7 @@ p {
 
 /* Animation */
 p { 
-  animation: animated-text 10s steps(66,end) 2s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
+  animation: animated-text 10s steps(66,end) 1s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
 }
 
 /* text animation */
@@ -55,14 +53,49 @@ p {
   border-radius: 15px;
   border-bottom-color: #663399;
   transition: transform .5s;
-  opacity: 0.2;
+  opacity: 1;
+}
+
+/*Same for 4 equal columns for Hobbies section*/
+.column1 {
+  flex: 25%;
+  padding: 10px;
+  box-shadow: 0 4px 8px #DED8D3;
+  border-radius: 15px;
+  border-bottom-color: #663399;
+  transition: transform .5s;
+  opacity: 1;
+}
+
+/*For Exploring - 2 columns*/
+.column2 {
+  flex: 50%;
+  padding: 10px;
+  box-shadow: 0 4px 8px #DED8D3;
+  border-radius: 15px;
+  border-bottom-color: #663399;
+  transition: transform .5s;
+  opacity: 1;
 }
 
 /* Adds zoom and visibilty on hovering the mouse cursor*/
 .column:hover {
   transform: scale(1.1);
-  opacity: 1;
+  opacity: 0.3;
 }
+
+/* same */
+.column1:hover {
+  transform: scale(1.1);
+  opacity: 0.3;
+}
+
+/*same*/
+.column2:hover {
+  transform: scale(1.1);
+  opacity: 0.3;
+}
+
 
 h3 {
   color: #1B89A9;
@@ -71,16 +104,27 @@ h3 {
   opacity: 0;
   font-family: 'Indie Flower', cursive;
   font-size: 40px;
+  transition: 1s ease;
 }
 
-h3:hover {
+.column:hover h3 {
+  opacity: 1;
+  text-align: center;
+}
+
+.column1:hover h3 {
+  opacity: 1;
+  text-align: center;
+}
+
+.column2:hover h3 {
   opacity: 1;
   text-align: center;
 }
 
 h2 {
   font-family: 'Lobster', cursive;
-  font-size: 64px;
+  font-size: 40px;
   text-decoration: underline overline;
 }
 
