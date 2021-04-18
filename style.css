@@ -129,6 +129,12 @@ h2 {
 }
 
 h1 {
-   font-family: 'Lobster', cursive;
-   text-decoration: double underline;
+  font-family: 'Lobster', cursive;
+  text-decoration: double underline;
+}
+
+.Amit {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
