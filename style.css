@@ -144,16 +144,10 @@ h1 {
   font-family: monospace, monospace; !important 
   color: #DBD7CE; 
   font-size: 15px;
-  animation: copyright 4s infinite alternate;
-}
-
-@keyframes {
-  from {width: 0px;}
-  to {width: 100%;}
 }
 
 
-.gumrah {
+.footer {
   display: block;
   position: fixed;
   height: 90px;
