@@ -17,10 +17,6 @@ p {
   font-family: cursive;  
   font-size: 28px;
   color: #000000;
-}
-
-/* Animation */
-p { 
   animation: animated-text 10s steps(66,end) 1s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
 }
 
