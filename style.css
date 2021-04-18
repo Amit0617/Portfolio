@@ -106,6 +106,7 @@ h3 {
 
 .column:hover h3 {
   opacity: 1;
+  animation: popout 0.5s 1;
 }
 
 .column1:hover h3 {
@@ -114,6 +115,11 @@ h3 {
 
 .column2:hover h3 {
   opacity: 1;
+}
+
+@keyframes popout {
+  from{font-size: 20px;}
+  to{font-size: 40px;}
 }
 
 h2 {
