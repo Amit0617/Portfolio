@@ -160,8 +160,13 @@ h1 {
   text-align: center;
 }
 
-button {
+a {
   color: #ffffff;
+  font-size: 15px;
+  font-style: bold;
+}
+
+button {
   padding: 10px;
   margin: 0 0 100px 0;
   border-radius: 15px;
