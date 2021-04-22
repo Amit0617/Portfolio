@@ -159,3 +159,13 @@ h1 {
   background-color: #1B85A6;
   text-align: center;
 }
+
+button {
+  padding: 50px;
+  border-radius: 15px;
+  background-color: #239BC7;
+}
+
+button:hover {
+  background-color: #1B85A6;
+}
