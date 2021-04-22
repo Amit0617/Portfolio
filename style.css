@@ -15,9 +15,9 @@ p {
   white-space: nowrap;
   overflow: hidden;    
   font-family: cursive;  
-  font-size: 35px;
+  
   color: #000000;
-  max-width: 100%;
+  width: 100%;
   animation: animated-text 10s steps(66,end) 1s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
 }
 
