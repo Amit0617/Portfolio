@@ -169,7 +169,8 @@ a {
 button {
   padding: 10px;
   margin: 0 0 100px 0;
-  border-radius: 15px;
+  border-radius: 5px;
+  border-color: #ffffff;
   background-color: #49C7E9;
 }
 
