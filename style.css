@@ -10,14 +10,14 @@ body{
   background-color: #ffffff;  
 }
 
-p {
+.intro {
   border-right: solid 3px rgba(0,0,0);
   white-space: nowrap;
   overflow: hidden;    
   font-family: cursive;  
   
   color: #000000;
-  width: 100%;
+  max-width: 100%;
   animation: animated-text 10s steps(66,end) 1s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
 }
 
