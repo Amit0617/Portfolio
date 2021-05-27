@@ -18,7 +18,7 @@ body{
   font-size: 35px;
   color: #000000;
   max-width: 100vw;
-  animation: animated-text 10s steps(66,end) 1s infinite alternate both, animated-cursor 750ms steps(66,end) infinite;
+  animation: animated-text 10s steps(60,end) 1s infinite alternate both, animated-cursor 750ms steps(60,end) infinite;
 }
 
 /* text animation */
