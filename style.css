@@ -154,7 +154,7 @@ h1 {
   height: 90px;
   left: 0px;
   bottom: 0px;
-  width: 100%;
+  width: 100vw;
   background-color: #1B85A6;
   text-align: center;
 }
