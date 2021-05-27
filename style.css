@@ -55,7 +55,7 @@ body{
 
 /*Same for 4 equal columns for Hobbies section*/
 .column1 {
-  flex: 25%;
+  flex: 20%;
   padding: 10px;
   box-shadow: 0 4px 8px #3A494F;
   border-radius: 15px;
