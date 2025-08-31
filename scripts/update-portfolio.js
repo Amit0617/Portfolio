@@ -139,6 +139,7 @@ async function fetchPRFeedback(owner, repo, number) {
       type: "issue_comment",
       body: c.body,
       user: c.user.login,
+      avatar_url: c.user.avatar_url,
       created_at: c.created_at,
       reactions: reactions.data.map((r) => r.content),
     });
@@ -162,6 +163,7 @@ async function fetchPRFeedback(owner, repo, number) {
       type: "review_comment",
       body: c.body,
       user: c.user.login,
+      avatar_url: c.user.avatar_url,
       created_at: c.created_at,
       reactions: reactions.data.map((r) => r.content),
     });
@@ -180,6 +182,7 @@ async function fetchPRFeedback(owner, repo, number) {
       type: "review",
       body: c.body,
       user: c.user.login,
+      avatar_url: c.user.avatar_url,
       created_at: c.created_at,
       reactions: [],
     });

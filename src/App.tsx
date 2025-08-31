@@ -2,11 +2,13 @@ import React, { useState, useRef, useEffect } from "react";
 import { motion } from "framer-motion";
 import portfolio from "../portfolio.json";
 import { Card } from "@/components/ui/card";
+import GitHubComment from "./components/GithubComment";
 
 // --- Types ---
 interface Feedback {
   user?: string;
   body: string;
+  created_at?: string;
   reactions: string[];
 }
 
@@ -25,60 +27,11 @@ interface Portfolio {
   prs: PullRequest[];
 }
 
-interface GitHubCommentProps {
-  user: string;
-  body: string;
-  reactions: string[];
-}
-
 interface SectionViewProps {
   title: string;
   icon: string;
   children: React.ReactNode;
   onBack: () => void;
-}
-
-// --- GitHub-style comment component ---
-function GitHubComment({ user, body, reactions }: GitHubCommentProps) {
-  return (
-    <motion.div
-      initial={{ opacity: 0, y: 80 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true }}
-      transition={{ duration: 0.5 }}
-      className="bg-gray-50 border rounded-lg p-3 my-3 shadow-sm w-full"
-    >
-      {/* Header */}
-      <div className="flex items-center gap-2 mb-2">
-        <div className="w-8 h-8 rounded-full bg-gray-300 shrink-0" />
-        <span className="text-sm sm:text-base font-medium truncate max-w-[70%]">
-          {user}
-        </span>
-      </div>
-
-      {/* Body */}
-      <p className="text-sm sm:text-base break-words whitespace-pre-wrap">
-        {body}
-      </p>
-
-      {/* Reactions */}
-      {reactions && reactions.length > 0 && (
-        <div className="flex flex-wrap gap-2 mt-3 text-xs sm:text-sm">
-          {reactions.map((emoji, i) => (
-            <motion.span
-              key={i}
-              initial={{ scale: 0 }}
-              animate={{ scale: 1 }}
-              transition={{ type: "spring", stiffness: 250 }}
-              className="bg-gray-200 px-2 py-0.5 rounded-full"
-            >
-              {emoji}
-            </motion.span>
-          ))}
-        </div>
-      )}
-    </motion.div>
-  );
 }
 
 // --- Section view ---
@@ -147,7 +100,12 @@ export default function Timeline() {
     pr.tags.includes("community_favorite")
   );
   const appreciationComments = communityPRs.flatMap((pr) =>
-    pr.feedback.filter((f) => f.body && /(thank|nice|great|lgtm)/i.test(f.body))
+    pr.feedback
+      .filter((f) => f.body && /(thank|nice|great|lgtm)/i.test(f.body))
+      .map((f) => ({
+        ...f,
+        prUrl: pr.url, // pass PR url for linking
+      }))
   );
 
   const fastLanePRs = data.prs.filter((pr) =>
@@ -201,6 +159,8 @@ export default function Timeline() {
             user={f.user || "unknown"}
             body={f.body}
             reactions={f.reactions}
+            prUrl={f.prUrl}
+            created_at={f.created_at}
           />
         ))}
       </SectionView>
