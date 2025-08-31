@@ -7,6 +7,7 @@ import GitHubComment from "./components/GithubComment";
 // --- Types ---
 interface Feedback {
   user?: string;
+  avatar_url?: string;
   body: string;
   created_at?: string;
   reactions: string[];
@@ -157,6 +158,7 @@ export default function Timeline() {
           <GitHubComment
             key={idx}
             user={f.user || "unknown"}
+            avatar_url={f.avatar_url || "https://www.gravatar.com/avatar/?d=mp&s=40"}
             body={f.body}
             reactions={f.reactions}
             prUrl={f.prUrl}

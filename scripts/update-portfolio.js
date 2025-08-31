@@ -48,59 +48,6 @@ async function fetchPRFiles(owner, repo, number) {
   return files.data.map((f) => ({ filename: f.filename, changes: f.changes }));
 }
 
-async function fetchPRComments(owner, repo, number) {
-  // Issue comments
-  const issueComments = await octokit.rest.issues.listComments({
-    owner,
-    repo,
-    issue_number: number,
-    per_page: 100,
-  });
-
-  // Review comments
-  const reviewComments = await octokit.rest.pulls.listReviewComments({
-    owner,
-    repo,
-    pull_number: number,
-    per_page: 100,
-  });
-
-  const comments = [
-    ...issueComments.data.map((c) => ({
-      id: c.id,
-      user: c.user?.login,
-      body: c.body || "",
-      reactions: [],
-    })),
-    ...reviewComments.data.map((c) => ({
-      id: c.id,
-      user: c.user?.login,
-      body: c.body || "",
-      reactions: [],
-    })),
-  ];
-
-  // Add reactions for each comment
-  for (const comment of comments) {
-    try {
-      const reactions = await octokit.rest.reactions.listForIssueComment({
-        owner,
-        repo,
-        comment_id: comment.id,
-        per_page: 100,
-      });
-      comment.reactions = reactions.data.map((r) => ({
-        user: r.user?.login,
-        content: r.content, // 👍, ❤️, 🚀, etc.
-      }));
-    } catch (e) {
-      // Some review comments don’t support reactions endpoint
-    }
-  }
-
-  return comments;
-}
-
 async function fetchPRFeedback(owner, repo, number) {
   let feedback = [];
 
