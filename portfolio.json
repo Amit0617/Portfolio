@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-30T10:22:12.339Z",
-  "user": "amit0617",
+  "generated_at": "2025-08-31T11:45:56.298Z",
+  "user": "Amit0617",
   "prs": [
     {
       "id": 11844,
@@ -23,6 +23,7 @@
           "type": "issue_comment",
           "body": "Yay, your first pull request! :thumbsup: A contributor will be by to give feedback soon. In the meantime, you can find updates in the [#github-notifications](https://layer5io.slack.com/archives/CLVT4TSG4) channel in the [community Slack](https://slack.meshery.io).\nBe sure to double-check that you have signed your commits. Here are instructions for [making signing an implicit activity while performing a commit](https://github.com/layer5io/layer5/blob/master/CONTRIBUTING.md#signing-off-on-commits-developer-certificate-of-origin).\n",
           "user": "welcome[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/4141?v=4",
           "created_at": "2024-08-29T13:36:17Z",
           "reactions": []
         },
@@ -30,6 +31,7 @@
           "type": "issue_comment",
           "body": "🚀 Preview for commit ae04ce83123702f8aa9571525a0f49a1667ebe0f at: https://66d07a0dceea5c188583a839--meshery-docs-preview.netlify.app",
           "user": "l5io",
+          "avatar_url": "https://avatars.githubusercontent.com/u/47201130?v=4",
           "created_at": "2024-08-29T13:40:02Z",
           "reactions": []
         },
@@ -37,6 +39,7 @@
           "type": "issue_comment",
           "body": "<!-- meshmap-snapshot: do not delete/edit this line -->\n[<img src=\"https://raw.githubusercontent.com/layer5labs/meshery-extensions-packages/master/action-assets/2024@8/dea82811-74ba-474f-b9e4-426e7401707eB42kT3U=.png\">](https://meshery.layer5.io/catalog/content/catalog/a8b6655e-be0b-4294-9b66-4c26dc121580) _[Understanding Meshery Relationships](https://docs.layer5.io/meshmap/concepts/relationships/)_",
           "user": "github-actions[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/15368?v=4",
           "created_at": "2024-08-29T13:40:35Z",
           "reactions": []
         },
@@ -44,6 +47,7 @@
           "type": "issue_comment",
           "body": "Thanks for your contribution to Meshery! :tada:\n \n<picture> <source media=\"(prefers-color-scheme: dark)\" srcset=\"https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/Meshery-celebration-Dark.svg\"> <source media=\"(prefers-color-scheme: light)\" srcset=\"https://raw.githubusercontent.com/meshery/meshery/master/.github/assets/images/Meshery-celebration-Light.svg\"> <img alt=\"Meshery Logo\" src=\"\"> </picture>\n&nbsp; &#9; &nbsp; &#9;  &nbsp; &#9;  &nbsp; &#9; [Join the community](http://slack.meshery.io), if you haven't yet and please leave a :star: [star on the project](../stargazers). :smile:\n",
           "user": "welcome[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/4141?v=4",
           "created_at": "2024-08-29T14:27:17Z",
           "reactions": []
         }
@@ -78,6 +82,7 @@
           "type": "issue_comment",
           "body": "### <span aria-hidden=\"true\">✅</span> Deploy Preview for *ethereumorg* ready!\n\n\n|  Name | Link |\n|:-:|------------------------|\n|<span aria-hidden=\"true\">🔨</span> Latest commit | b2e377f6b85448af21e1287a7427baf7773e4767 |\n|<span aria-hidden=\"true\">🔍</span> Latest deploy log | https://app.netlify.com/sites/ethereumorg/deploys/66b25c2f7077fc0008e40f23 |\n|<span aria-hidden=\"true\">😎</span> Deploy Preview | [https://deploy-preview-13589--ethereumorg.netlify.app](https://deploy-preview-13589--ethereumorg.netlify.app) |\n|<span aria-hidden=\"true\">📱</span> Preview on mobile | <details><summary> Toggle QR Code... </summary><br /><br />![QR Code](https://app.netlify.com/qr-code/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2RlcGxveS1wcmV2aWV3LTEzNTg5LS1ldGhlcmV1bW9yZy5uZXRsaWZ5LmFwcCJ9.m5vw2puqLs_ug17PFHBGPNuuzdZ6dctkECbynbsHLcc)<br /><br />_Use your smartphone camera to open QR code link._</details> |\n|<span aria-hidden=\"true\">![Lighthouse](https://app.netlify.com/public/external-usage/git-comments/lighthouse-sm.png)</span><br />Lighthouse | 7 paths audited<br />**Performance**: 43 (🔴 down 9 from production)<br />**Accessibility**: 93 (no change from production)<br />**Best Practices**: 91 (🔴 down 7 from production)<br />**SEO**: 92 (no change from production)<br />**PWA**: -<br />[View the detailed breakdown and full score reports](https://app.netlify.com/sites/ethereumorg/deploys/66b25c2f7077fc0008e40f23) |\n---\n\n_To edit notification comments on pull requests, go to your [Netlify site configuration](https://app.netlify.com/sites/ethereumorg/configuration/deploys#deploy-notifications)._",
           "user": "netlify[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/13473?v=4",
           "created_at": "2024-08-06T05:51:33Z",
           "reactions": []
         },
@@ -85,6 +90,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\n[Read the full JSON-RPC API spec on GitHub](https://github.com/ethereum/execution-apis). This API is documented on the [Execution API webpage](https://ethereum.github.io/execution-apis/api-documentation/) and includes an Inspector to try out all the available methods.\r\n```\r\n\r\nJust small copy suggestion",
           "user": "corwintines",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15589226?v=4",
           "created_at": "2024-08-06T17:23:49Z",
           "reactions": []
         },
@@ -92,12 +98,14 @@
           "type": "review",
           "body": "",
           "user": "corwintines",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15589226?u=454033ce58566c9d8e0c7a666b9b6cd0bf97adf0&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "Thanks @Amit0617 ",
           "user": "corwintines",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15589226?u=454033ce58566c9d8e0c7a666b9b6cd0bf97adf0&v=4",
           "reactions": []
         }
       ],
@@ -131,6 +139,7 @@
           "type": "issue_comment",
           "body": "### <span aria-hidden=\"true\">✅</span> Deploy Preview for *ethereumorg* ready!\n\n\n|  Name | Link |\n|:-:|------------------------|\n|<span aria-hidden=\"true\">🔨</span> Latest commit | 5eb580baed360343ee59e754c2ce00db65633ead |\n|<span aria-hidden=\"true\">🔍</span> Latest deploy log | https://app.netlify.com/sites/ethereumorg/deploys/66a4c6c29bd277000855cc60 |\n|<span aria-hidden=\"true\">😎</span> Deploy Preview | [https://deploy-preview-13516--ethereumorg.netlify.app](https://deploy-preview-13516--ethereumorg.netlify.app) |\n|<span aria-hidden=\"true\">📱</span> Preview on mobile | <details><summary> Toggle QR Code... </summary><br /><br />![QR Code](https://app.netlify.com/qr-code/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2RlcGxveS1wcmV2aWV3LTEzNTE2LS1ldGhlcmV1bW9yZy5uZXRsaWZ5LmFwcCJ9.puL5KX-07PyIAqTnM32bfnk6Jb20C-WZTpGJdCLOQLI)<br /><br />_Use your smartphone camera to open QR code link._</details> |\n|<span aria-hidden=\"true\">![Lighthouse](https://app.netlify.com/public/external-usage/git-comments/lighthouse-sm.png)</span><br />Lighthouse | 7 paths audited<br />**Performance**: 44 (🔴 down 7 from production)<br />**Accessibility**: 93 (no change from production)<br />**Best Practices**: 89 (🔴 down 10 from production)<br />**SEO**: 92 (no change from production)<br />**PWA**: -<br />[View the detailed breakdown and full score reports](https://app.netlify.com/sites/ethereumorg/deploys/66a4c6c29bd277000855cc60) |\n---\n\n_To edit notification comments on pull requests, go to your [Netlify site configuration](https://app.netlify.com/sites/ethereumorg/configuration/deploys#deploy-notifications)._",
           "user": "netlify[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/13473?v=4",
           "created_at": "2024-07-27T10:07:14Z",
           "reactions": []
         },
@@ -138,6 +147,7 @@
           "type": "review",
           "body": "LGTM, thanks @Amit0617 ",
           "user": "corwintines",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15589226?u=454033ce58566c9d8e0c7a666b9b6cd0bf97adf0&v=4",
           "reactions": []
         }
       ],
@@ -169,6 +179,7 @@
           "type": "issue_comment",
           "body": "### <span aria-hidden=\"true\">✅</span> Deploy Preview for *ethereumorg* ready!\n\n\n|  Name | Link |\n|:-:|------------------------|\n|<span aria-hidden=\"true\">🔨</span> Latest commit | 9f91a31c9ec2b3b0bdb1c598d47308affcd5d892 |\n|<span aria-hidden=\"true\">🔍</span> Latest deploy log | https://app.netlify.com/sites/ethereumorg/deploys/662b507bc773e700085c79ff |\n|<span aria-hidden=\"true\">😎</span> Deploy Preview | [https://deploy-preview-12843--ethereumorg.netlify.app](https://deploy-preview-12843--ethereumorg.netlify.app) |\n|<span aria-hidden=\"true\">📱</span> Preview on mobile | <details><summary> Toggle QR Code... </summary><br /><br />![QR Code](https://app.netlify.com/qr-code/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwczovL2RlcGxveS1wcmV2aWV3LTEyODQzLS1ldGhlcmV1bW9yZy5uZXRsaWZ5LmFwcCJ9.gKnhv2zUgUznsETMrTOxmhhtKLABZ7unROVn6NsGuVo)<br /><br />_Use your smartphone camera to open QR code link._</details> |\n|<span aria-hidden=\"true\">![Lighthouse](https://app.netlify.com/public/external-usage/git-comments/lighthouse-sm.png)</span><br />Lighthouse | 1 paths audited<br />**Performance**: 32 (🔴 down 7 from production)<br />**Accessibility**: 93 (no change from production)<br />**Best Practices**: 92 (🔴 down 8 from production)<br />**SEO**: 100 (no change from production)<br />**PWA**: -<br />[View the detailed breakdown and full score reports](https://app.netlify.com/sites/ethereumorg/deploys/662b507bc773e700085c79ff) |\n---\n\n_To edit notification comments on pull requests, go to your [Netlify site configuration](https://app.netlify.com/sites/ethereumorg/configuration/deploys#deploy-notifications)._",
           "user": "netlify[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/13473?v=4",
           "created_at": "2024-04-26T06:58:15Z",
           "reactions": []
         },
@@ -176,6 +187,7 @@
           "type": "issue_comment",
           "body": "@all-contributors please add @Amit0617 for docs",
           "user": "minimalsm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/62268199?v=4",
           "created_at": "2024-05-02T13:01:16Z",
           "reactions": []
         },
@@ -183,6 +195,7 @@
           "type": "issue_comment",
           "body": "@minimalsm \n\n@Amit0617 already contributed before to doc",
           "user": "allcontributors[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/23186?v=4",
           "created_at": "2024-05-02T13:01:19Z",
           "reactions": []
         },
@@ -190,6 +203,7 @@
           "type": "issue_comment",
           "body": "Congrats, your important contribution to this open-source project has earned you a GitPOAP!\n\nBe sure to join the [Ethereum.org discord](https://ethereum.org/discord) if you are interested in contributing further to the project or have any questions for the team.\n\n\n[**GitPOAP: 2024 Ethereum.org Contributor**](https://www.gitpoap.io/gp/1081):\n\n\n<img alt=\"GitPOAP: 2024 Ethereum.org Contributor GitPOAP Badge\" src=\"https://assets.poap.xyz/gitpoap3a-2024-ethereumorg-contributor-2023-logo-1703962452805.png\" height=\"200px\">\n\n\nHead to [gitpoap.io](https://www.gitpoap.io) & connect your GitHub account to mint!\n\nLearn more about GitPOAPs [here](https://medium.com/gitpoap/whats-a-gitpoap-72f1f5778c6/).",
           "user": "gitpoap-bot[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/209535?v=4",
           "created_at": "2024-05-02T13:01:25Z",
           "reactions": []
         },
@@ -197,6 +211,7 @@
           "type": "review",
           "body": "Nice catch, thanks for the PR @Amit0617 ❤️ ",
           "user": "minimalsm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/62268199?u=0496c0ee698f5e644d8c84fa5c45fb4699610eff&v=4",
           "reactions": []
         }
       ],
@@ -251,6 +266,7 @@
           "type": "issue_comment",
           "body": "@Amit0617 Thanks! 💪",
           "user": "gaby",
+          "avatar_url": "https://avatars.githubusercontent.com/u/835733?v=4",
           "created_at": "2024-03-17T14:58:42Z",
           "reactions": []
         },
@@ -258,6 +274,7 @@
           "type": "review_comment",
           "body": "> :memo: **NOTE**\n> This review was outside the diff hunks, and no overlapping diff hunk was found. Original lines [1-1]\n\nThe abbreviation for \"identification\" should be spelled in all uppercase.\n\n```diff\n- id: swagger\n+ ID: swagger\n```\n\n<!-- This is an auto-generated comment by CodeRabbit -->\n\n---\n\n> :memo: **NOTE**\n> This review was outside the diff hunks, and no overlapping diff hunk was found. Original lines [31-31]\n\nCorrect the spelling mistake from \"latests\" to \"latest\".\n\n```diff\n- latests [Go versions]\n+ latest [Go versions]\n```\n\n<!-- This is an auto-generated comment by CodeRabbit -->",
           "user": "coderabbitai[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/347564?v=4",
           "created_at": "2024-03-17T14:41:57Z",
           "reactions": []
         },
@@ -265,6 +282,7 @@
           "type": "review_comment",
           "body": "The sentence should start with an uppercase letter for consistency.\n\n```diff\n- using a custom config:\n+ Using a custom config:\n```\n\n<!-- This is an auto-generated comment by CodeRabbit -->\n\n---\n\n<!-- suggestion_start -->\n<details>\n<summary>Committable suggestion</summary>\n\n> :bangbang: **IMPORTANT**\n> Carefully review the code before committing. Ensure that it accurately replaces the highlighted code, contains no missing lines, and has no issues with indentation.\n\n```suggestion\nUsing a custom config:\n```\n\n</details>\n<!-- suggestion_end -->\n\n<!-- This is an auto-generated comment by CodeRabbit -->",
           "user": "coderabbitai[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/347564?v=4",
           "created_at": "2024-03-17T14:41:57Z",
           "reactions": []
         },
@@ -272,12 +290,14 @@
           "type": "review",
           "body": "<details>\n<summary>Review Status</summary>\n\n\n**Actionable comments generated: 3**\n\n**Configuration used: CodeRabbit UI**\n\n<details>\n<summary>Commits</summary>\nFiles that changed from the base of the PR and between a1dbee5938e0ea9f30b02f82ce6d9280c069fa54 and ed1b8762b49eeeba2fc379f36724e086e1e25dc4.\n</details>\n\n\n<details>\n<summary>Files selected for processing (1)</summary>\n\n* swagger/README.md (2 hunks)\n\n</details>\n\n\n\n\n\n\n\n\n\n\n<details><summary>Additional comments: 6</summary><blockquote>\n<details><summary>swagger/README.md (6)</summary><blockquote>\n\n* 48-54: > :memo: **NOTE**\n> This review was outside the diff hunks, and no overlapping diff hunk was found. Original lines [6-6]\n\nThe use of multiple exclamation marks in the badges section might seem excessive. Consider simplifying to maintain professionalism in documentation.\n* 48-54: > :memo: **NOTE**\n> This review was outside the diff hunks, and no overlapping diff hunk was found. Original lines [25-25]\n\nAdd a space between sentences for better readability.\n* 48-54: > :memo: **NOTE**\n> This review was outside the diff hunks, and no overlapping diff hunk was found. Original lines [31-31]\n\nThe suggestion to replace \"initialize\" with other words seems to be a false positive. The usage of \"initialize\" is correct in this context.\n* 48-54: > :memo: **NOTE**\n> This review was outside the diff hunks, and no overlapping diff hunk was found. Original lines [41-41]\n\nRemove the space after the opening parenthesis for consistency with Go formatting standards.\n* 49-49: Add a space between sentences for better readability.\n* 48-54: > :memo: **NOTE**\n> This review was outside the diff hunks, and no overlapping diff hunk was found. Original lines [66-66]\n\nThe suggestions to remove spaces before closing parentheses are false positives in the context of Go code blocks within markdown documentation.\n\n\n\nAlso applies to: 87-87, 122-122\n\n</blockquote></details></blockquote></details>\n\n\n\n</details>\n\n<!-- This is an auto-generated comment by CodeRabbit for review status -->",
           "user": "coderabbitai[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/347564?v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "gaby",
+          "avatar_url": "https://avatars.githubusercontent.com/u/835733?u=8c72dec16fa560bdc81113354f2ffd79ad062bde&v=4",
           "reactions": []
         }
       ],
@@ -336,6 +356,7 @@
           "type": "issue_comment",
           "body": "[vc]: #w110QCpJx43Wo1WTKj67ZHi6Cpuh4GrboJr27Q+TcE8=:eyJpc01vbm9yZXBvIjp0cnVlLCJ0eXBlIjoiZ2l0aHViIiwicHJvamVjdHMiOlt7Im5hbWUiOiJlemtsanMtZW5naW5lIiwicm9vdERpcmVjdG9yeSI6bnVsbCwiaW5zcGVjdG9yVXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tL2V6a2xkZXYvZXprbGpzLWVuZ2luZS81blJjVUFMNTI3S0dqMVVSTm1MWWJvZXJKWFg4IiwicHJldmlld1VybCI6ImV6a2xqcy1lbmdpbmUtZ2l0LWZvcmstYW1pdDA2MTctZGV2LWV6a2xkZXYudmVyY2VsLmFwcCIsIm5leHRDb21taXRTdGF0dXMiOiJERVBMT1lFRCIsImxpdmVGZWVkYmFjayI6eyJyZXNvbHZlZCI6MCwidW5yZXNvbHZlZCI6MCwidG90YWwiOjAsImxpbmsiOiJlemtsanMtZW5naW5lLWdpdC1mb3JrLWFtaXQwNjE3LWRldi1lemtsZGV2LnZlcmNlbC5hcHAifX1dfQ==\n**The latest updates on your projects**. Learn more about [Vercel for Git ↗︎](https://vercel.link/github-learn-more)\n\n| Name | Status | Preview | Comments | Updated (UTC) |\n| :--- | :----- | :------ | :------- | :------ |\n| **ezkljs-engine** | ✅ Ready ([Inspect](https://vercel.com/ezkldev/ezkljs-engine/5nRcUAL527KGj1URNmLYboerJXX8)) | [Visit Preview](https://vercel.live/open-feedback/ezkljs-engine-git-fork-amit0617-dev-ezkldev.vercel.app?via=pr-comment-visit-preview-link&passThrough=1) | 💬 [**Add feedback**](https://vercel.live/open-feedback/ezkljs-engine-git-fork-amit0617-dev-ezkldev.vercel.app?via=pr-comment-feedback-link) | Jan 20, 2024 0:59am |\n\n",
           "user": "vercel[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/8329?v=4",
           "created_at": "2024-01-20T12:57:58Z",
           "reactions": []
         },
@@ -343,6 +364,7 @@
           "type": "review",
           "body": "LGTM!",
           "user": "ethan-crypto",
+          "avatar_url": "https://avatars.githubusercontent.com/u/80181942?u=297d1f6f2e59037b6c508df67d70d3ae78d4e4bf&v=4",
           "reactions": []
         }
       ],
@@ -554,6 +576,7 @@
           "type": "issue_comment",
           "body": "## :white_check_mark: ethereum-org-website-dev deploy preview ready\n* [Deploy preview](https://ethereumorgwebsitedev01-amit0617ethereumorgwebsit67951.gatsbyjs.io)\n* [Build logs](https://gatsbyjs.com/dashboard/5e02f963-3fe5-4e37-a1e7-ac05f7753a86/sites/dc7c4340-a8e9-44ed-b7be-883c70d2f02d/builds/b8b07169-1eaa-4755-9151-c307df7e08f7/details) · **40m** build time",
           "user": "gatsby-cloud[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/24573?v=4",
           "created_at": "2023-07-27T06:19:38Z",
           "reactions": []
         },
@@ -561,6 +584,7 @@
           "type": "issue_comment",
           "body": "Congrats, your important contribution to this open-source project has earned you a GitPOAP!\n\nBe sure to join the [Ethereum.org discord](https://ethereum.org/discord) if you are interested in contributing further to the project or have any questions for the team.\n\n\n[**GitPOAP: 2023 Ethereum.org Contributor**](https://www.gitpoap.io/gp/879):\n\n\n<img alt=\"GitPOAP: 2023 Ethereum.org Contributor GitPOAP Badge\" src=\"https://assets.poap.xyz/gitpoap3a-2023-ethereumorg-contributor-2022-logo-1671568487547.png\" height=\"200px\">\n\n\nHead to [gitpoap.io](https://www.gitpoap.io) & connect your GitHub account to mint!\n\nLearn more about GitPOAPs [here](https://medium.com/gitpoap/whats-a-gitpoap-72f1f5778c6/).",
           "user": "gitpoap-bot[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/209535?v=4",
           "created_at": "2023-08-09T06:03:51Z",
           "reactions": []
         },
@@ -568,6 +592,7 @@
           "type": "review",
           "body": "Thanks!",
           "user": "corwintines",
+          "avatar_url": "https://avatars.githubusercontent.com/u/15589226?u=454033ce58566c9d8e0c7a666b9b6cd0bf97adf0&v=4",
           "reactions": []
         }
       ],
@@ -601,6 +626,7 @@
           "type": "issue_comment",
           "body": "[vc]: #CgQjxKPQT2WSrZjEytdFXqLO0t2y7YbJnBt5NmHxs6Y=:eyJpc01vbm9yZXBvIjp0cnVlLCJ0eXBlIjoiZ2l0aHViIiwicHJvamVjdHMiOlt7Im5hbWUiOiJtYW5pZm9sZC1qczl1IiwiaW5zcGVjdG9yVXJsIjoiaHR0cHM6Ly92ZXJjZWwuY29tL2FtaXQwNjE3L21hbmlmb2xkLWpzOXUvQlBCR1FqWW5KQnNyQlZNZTR1YktFREx2VHQzOCIsIm5leHRDb21taXRTdGF0dXMiOiJERVBMT1lFRCIsInJvb3REaXJlY3RvcnkiOiJ3ZWIiLCJsaXZlRmVlZGJhY2siOnsicmVzb2x2ZWQiOjAsInVucmVzb2x2ZWQiOjAsInRvdGFsIjowLCJsaW5rIjoibWFuaWZvbGQtanM5dS1hbWl0MDYxNy52ZXJjZWwuYXBwIn0sInByZXZpZXdVcmwiOiJtYW5pZm9sZC1qczl1LWFtaXQwNjE3LnZlcmNlbC5hcHAifV19\n**The latest updates on your projects**. Learn more about [Vercel for Git ↗︎](https://vercel.link/github-learn-more)\n\n| Name | Status | Preview | Comments | Updated (UTC) |\n| :--- | :----- | :------ | :------- | :------ |\n| **manifold-js9u** | ✅ Ready ([Inspect](https://vercel.com/amit0617/manifold-js9u/BPBGQjYnJBsrBVMe4ubKEDLvTt38)) | [Visit Preview](https://vercel.live/open-feedback/manifold-js9u-amit0617.vercel.app?via=pr-comment-visit-preview-link&passThrough=1) | 💬 [**Add feedback**](https://vercel.live/open-feedback/manifold-js9u-amit0617.vercel.app?via=pr-comment-feedback-link) | Jul 19, 2023 8:02am |\n\n",
           "user": "vercel[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/8329?v=4",
           "created_at": "2023-07-19T06:38:57Z",
           "reactions": []
         }
@@ -708,6 +734,7 @@
           "type": "issue_comment",
           "body": "Thanks for this @Amit0617 - have you tested a deployment after this change? email me if you need $AKT to test and post a recording of the deployment with this change please.",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-04-20T16:21:31Z",
           "reactions": []
         },
@@ -715,6 +742,7 @@
           "type": "issue_comment",
           "body": "Sent email",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-04-21T13:47:20Z",
           "reactions": []
         },
@@ -722,6 +750,7 @@
           "type": "issue_comment",
           "body": "10 $AKT sent",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-04-21T17:41:19Z",
           "reactions": [
             "+1"
@@ -731,6 +760,7 @@
           "type": "issue_comment",
           "body": "![Screenshot_20230422_215046](https://user-images.githubusercontent.com/71893015/233796344-17086c8b-3fa2-497d-965f-8d239ee2df4b.png)\r\n![Screenshot_20230422_215110](https://user-images.githubusercontent.com/71893015/233796349-3c206a43-4a7c-46ed-915b-26ec248463fb.png)\r\n\r\nI didn't found any component for tooltip having white background. So it is in it's default state.\r\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-04-22T16:42:20Z",
           "reactions": []
         },
@@ -738,6 +768,7 @@
           "type": "issue_comment",
           "body": "Thanks @Amit0617 - have you verified deploying a workload (tetris is fine) and closing out?",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-04-23T05:06:53Z",
           "reactions": []
         },
@@ -745,6 +776,7 @@
           "type": "issue_comment",
           "body": "I didn't got it clearly, do you want me to delete the deployment?",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-04-23T06:20:26Z",
           "reactions": []
         },
@@ -752,6 +784,7 @@
           "type": "issue_comment",
           "body": "Create a new Tetris deployment (Fun & Games > Tetris > Deploy), confirm successful deployment (should be able to click URL at the end and see app) and then delete deployment. ",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-04-23T10:15:08Z",
           "reactions": []
         },
@@ -759,6 +792,7 @@
           "type": "issue_comment",
           "body": "And post screen recording if possible ",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-04-23T10:34:44Z",
           "reactions": []
         },
@@ -766,6 +800,7 @@
           "type": "issue_comment",
           "body": "\r\nhttps://user-images.githubusercontent.com/71893015/233838317-0ab192e5-9e31-4883-93db-864cf6ba4383.mp4\r\n\r\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-04-23T11:57:48Z",
           "reactions": [
             "+1"
@@ -775,6 +810,7 @@
           "type": "issue_comment",
           "body": "In between transaction fails when I was trying to save some $AKT as I had already got to less than 5 $AKT after first deployment, so I was concerned if in between, funds get shorted but I realized you get a big portion back if you delete the deployment.",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-04-23T12:03:02Z",
           "reactions": [
             "+1"
@@ -784,6 +820,7 @@
           "type": "issue_comment",
           "body": "@Amit0617 - thanks for the screen recording. Yes, an escrow (with default 5 $AKT) is created when you create a lease with a provider. The left over funds (when you close the lease) are returned back to your wallet when the lease is closed.\r\n\r\nThis looks good to me to review and merge if OK @jtary - please review",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-04-24T16:44:27Z",
           "reactions": []
         },
@@ -791,6 +828,7 @@
           "type": "review_comment",
           "body": "add space after client:\r\n\"using a different client (not console)\"",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-04-24T16:46:20Z",
           "reactions": []
         },
@@ -798,12 +836,14 @@
           "type": "review",
           "body": "",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?u=9c2f026ff118f62611aab4c0ff53880e3c667dc7&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "jtary",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79639?u=fd9f0e84e05d492f69b65e454579e18e1eda32e3&v=4",
           "reactions": []
         }
       ],
@@ -835,6 +875,7 @@
           "type": "issue_comment",
           "body": "thanks for the contribution :wave:",
           "user": "jtary",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79639?v=4",
           "created_at": "2023-03-24T23:29:47Z",
           "reactions": [
             "+1"
@@ -844,6 +885,7 @@
           "type": "issue_comment",
           "body": "Thanks @Amit0617 - not sure if you're from replit ot not - if you are: https://replit.com/bounties/@anilmurty/akash-console-improv-2",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-03-25T01:12:49Z",
           "reactions": []
         },
@@ -851,6 +893,7 @@
           "type": "issue_comment",
           "body": "Applied there",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-03-25T06:11:18Z",
           "reactions": []
         },
@@ -858,6 +901,7 @@
           "type": "issue_comment",
           "body": "Thanks @Amit0617  - application accepted. I'll close and you'll get the award once we test this on our staging server after deploy (should be in a couple days). Sound good?",
           "user": "anilmurty",
+          "avatar_url": "https://avatars.githubusercontent.com/u/19495789?v=4",
           "created_at": "2023-03-26T17:08:16Z",
           "reactions": [
             "+1"
@@ -867,6 +911,7 @@
           "type": "review",
           "body": "",
           "user": "jtary",
+          "avatar_url": "https://avatars.githubusercontent.com/u/79639?u=fd9f0e84e05d492f69b65e454579e18e1eda32e3&v=4",
           "reactions": []
         }
       ],
@@ -897,6 +942,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\nname: Enhancement Proposal\r\n```\r\nI would use enhancement here since we're in the OpenFeature Enhancement Proposal repo 😄 \r\n",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T18:27:18Z",
           "reactions": []
         },
@@ -904,6 +950,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\ndescription: Submit a proposal for a new enhancement.\r\n```",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T18:27:30Z",
           "reactions": []
         },
@@ -911,6 +958,7 @@
           "type": "review_comment",
           "body": "We can keep me for now, but it would be great to use a team or teams here.",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T19:12:22Z",
           "reactions": [
             "+1"
@@ -920,6 +968,7 @@
           "type": "review_comment",
           "body": "Can you add a welcome sentence before jumping into the requirements? Something like \"Hi there! Thanks for your interest in OpenFeature.\"",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T19:14:31Z",
           "reactions": []
         },
@@ -927,6 +976,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\n          * title describes the content accurately.\r\n          * sentences are short and clear.\r\n          * grammar and spelling errors are not distorting the meaning. \r\n```",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T19:15:42Z",
           "reactions": []
         },
@@ -934,6 +984,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\n        Also, please make sure to follow common issue etiquette like:\r\n```",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T19:16:45Z",
           "reactions": []
         },
@@ -941,6 +992,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\n      description: What category does your proposal best fit? This helps us determine who to engage with on our side.\r\n```",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T19:28:40Z",
           "reactions": []
         },
@@ -948,6 +1000,7 @@
           "type": "review_comment",
           "body": "It looks like only one option can be selected at a time.\r\n\r\nPerhaps we should use:\r\n- Specification\r\n- OpenFeature Operator\r\n- Flagd\r\n- SDKs\r\n- Other",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T19:33:03Z",
           "reactions": []
         },
@@ -955,6 +1008,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\n```\r\n\r\nI would remove the placeholder.",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T19:40:34Z",
           "reactions": []
         },
@@ -962,6 +1016,7 @@
           "type": "review_comment",
           "body": "```suggestion\r\n      description: Okay, you have our attention! Go ahead and give us the pitch. Please include a brief overview, explain how it fits into OpenFeature, and what the expected value will be.\r\n```",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-22T20:27:19Z",
           "reactions": []
         },
@@ -969,6 +1024,7 @@
           "type": "review_comment",
           "body": "I'm not sure about my proposal. Let's wordsmith this a bit together. I would like to come up with a tone that makes the process seem less formal.",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-23T00:29:24Z",
           "reactions": []
         },
@@ -976,6 +1032,7 @@
           "type": "review_comment",
           "body": "Do we want multiple selectable kind of options? Then we can completely remove this or maybe put this in labels section and ask them(proposal authors) to remove out of the scope options(or labels, however I am not sure how this will look in the form structure and would this be possible or not).",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-03-23T11:05:07Z",
           "reactions": []
         },
@@ -983,6 +1040,7 @@
           "type": "review_comment",
           "body": "Yeah sure like in case of PEP, there is a team called **PEP editors**. We can create such a team for triaging proposals. ",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-03-23T11:42:35Z",
           "reactions": []
         },
@@ -990,6 +1048,7 @@
           "type": "review_comment",
           "body": "please have a look on the last commit.",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-03-23T11:43:52Z",
           "reactions": []
         },
@@ -997,6 +1056,7 @@
           "type": "review_comment",
           "body": "Yeah, that would be a great next step 👍 ",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-23T21:04:03Z",
           "reactions": []
         },
@@ -1004,6 +1064,7 @@
           "type": "review_comment",
           "body": "I'm not 100% sure. I really wish this was a multi-select. However, I think my suggestions should cover most of the core use cases and would be interesting to different community members.",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-23T21:05:15Z",
           "reactions": [
             "+1"
@@ -1013,6 +1074,7 @@
           "type": "review_comment",
           "body": "Yeah, I like that 👍 ",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-23T21:05:40Z",
           "reactions": []
         },
@@ -1020,6 +1082,7 @@
           "type": "review_comment",
           "body": "Was this generated with ChatGPT 🤣 ",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-23T21:06:35Z",
           "reactions": [
             "laugh"
@@ -1029,6 +1092,7 @@
           "type": "review_comment",
           "body": "AI is good at rephrasing... commit message was my prompt 🌚",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-03-24T11:56:40Z",
           "reactions": []
         },
@@ -1036,6 +1100,7 @@
           "type": "review_comment",
           "body": "Haha, ok! Could you try again but make it shorter and with a slightly more serious tone? I want to make it inviting and approachable while still making it clear that an OFEP is an important part of the decision-making process.",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?v=4",
           "created_at": "2023-03-27T18:18:28Z",
           "reactions": []
         },
@@ -1043,6 +1108,7 @@
           "type": "review_comment",
           "body": "Have a look on the new commit. Thanks",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2023-03-28T17:06:30Z",
           "reactions": [
             "+1"
@@ -1052,66 +1118,77 @@
           "type": "review",
           "body": "Nice start! I left some feedback. Please let me know what you think.",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?u=17d15115967f0ef9f0659ef84aff244f95498c9f&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?u=f855329028ad846d62d80f4b6b1e19c4e9f9c8b5&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?u=f855329028ad846d62d80f4b6b1e19c4e9f9c8b5&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?u=f855329028ad846d62d80f4b6b1e19c4e9f9c8b5&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?u=17d15115967f0ef9f0659ef84aff244f95498c9f&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?u=17d15115967f0ef9f0659ef84aff244f95498c9f&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?u=17d15115967f0ef9f0659ef84aff244f95498c9f&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?u=17d15115967f0ef9f0659ef84aff244f95498c9f&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?u=f855329028ad846d62d80f4b6b1e19c4e9f9c8b5&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "beeme1mr",
+          "avatar_url": "https://avatars.githubusercontent.com/u/682996?u=17d15115967f0ef9f0659ef84aff244f95498c9f&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?u=f855329028ad846d62d80f4b6b1e19c4e9f9c8b5&v=4",
           "reactions": []
         }
       ],
@@ -1141,6 +1218,7 @@
           "type": "review",
           "body": "",
           "user": "yacovm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/7521849?v=4",
           "reactions": []
         }
       ],
@@ -1173,6 +1251,7 @@
           "type": "issue_comment",
           "body": "## :white_check_mark: ethereum-org-website-dev deploy preview ready\n* [Deploy preview](https://ethereumorgwebsitedev01-amit0617ethereumorgwebsitepatc.gtsb.io)\n* [Build logs](https://gatsbyjs.com/dashboard/5e02f963-3fe5-4e37-a1e7-ac05f7753a86/sites/dc7c4340-a8e9-44ed-b7be-883c70d2f02d/builds/5834bc48-f43c-40fc-9aa2-d582828ea6ef/details) · **41m** build time",
           "user": "gatsby-cloud[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/24573?v=4",
           "created_at": "2022-11-10T17:08:19Z",
           "reactions": []
         },
@@ -1180,6 +1259,7 @@
           "type": "issue_comment",
           "body": "Congrats, your important contribution to this open-source project has earned you a GitPOAP!\n\n\n[**GitPOAP: 2022 Ethereum.org Contributor**](https://www.gitpoap.io/gp/74):\n\n\n<img alt=\"GitPOAP: 2022 Ethereum.org Contributor GitPOAP Badge\" src=\"https://assets.poap.xyz/gitpoap-2022-ethereumorg-contributor-2022-logo-1649270203770.png\" height=\"200px\">\n\n\nHead to [gitpoap.io](https://www.gitpoap.io) & connect your GitHub account to mint!\n\nLearn more about GitPOAPs [here](https://medium.com/gitpoap/whats-a-gitpoap-72f1f5778c6/).",
           "user": "gitpoap-bot[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/209535?v=4",
           "created_at": "2022-11-17T19:16:28Z",
           "reactions": []
         },
@@ -1187,6 +1267,7 @@
           "type": "issue_comment",
           "body": "@all-contributors please add @Amit0617 for docs",
           "user": "minimalsm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/62268199?v=4",
           "created_at": "2022-11-17T19:16:35Z",
           "reactions": []
         },
@@ -1194,6 +1275,7 @@
           "type": "issue_comment",
           "body": "@minimalsm \n\nI've put up [a pull request](https://github.com/ethereum/ethereum-org-website/pull/8647) to add @Amit0617! :tada:",
           "user": "allcontributors[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/23186?v=4",
           "created_at": "2022-11-17T19:16:45Z",
           "reactions": []
         },
@@ -1201,6 +1283,7 @@
           "type": "review",
           "body": "Thanks for the PR @Amit0617 \r\n\r\nBe sure to [join the discord](https://discord.gg/CetY6Y4) if you are interested in contributing further to the project or have any questions for the team. And we've just released our 2022 POAPs so remember to [claim yours](https://ethereum.org/en/contributing/#poap) also 🥳! ",
           "user": "minimalsm",
+          "avatar_url": "https://avatars.githubusercontent.com/u/62268199?u=0496c0ee698f5e644d8c84fa5c45fb4699610eff&v=4",
           "reactions": []
         }
       ],
@@ -1334,6 +1417,7 @@
           "type": "review",
           "body": "",
           "user": "ittaiab",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8912814?v=4",
           "reactions": []
         }
       ],
@@ -1365,6 +1449,7 @@
           "type": "issue_comment",
           "body": "thank you",
           "user": "snowtigersoft",
+          "avatar_url": "https://avatars.githubusercontent.com/u/3327253?v=4",
           "created_at": "2022-05-07T12:14:16Z",
           "reactions": [
             "+1"
@@ -1402,6 +1487,7 @@
           "type": "issue_comment",
           "body": "feel free to reopen",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-09-20T14:09:19Z",
           "reactions": []
         },
@@ -1409,6 +1495,7 @@
           "type": "issue_comment",
           "body": "Why closed and not merged?",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-09-23T07:09:22Z",
           "reactions": []
         },
@@ -1416,6 +1503,7 @@
           "type": "issue_comment",
           "body": "lets give CI a try again... I thought something was failing.",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-09-23T07:30:12Z",
           "reactions": []
         },
@@ -1423,6 +1511,7 @@
           "type": "issue_comment",
           "body": "So how one debugs from where the problem is arising?",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-09-23T13:21:08Z",
           "reactions": []
         },
@@ -1430,6 +1519,7 @@
           "type": "review",
           "body": "look correct though I don't know if there is any issue with adding char arrays and UTF8 encoded ones",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -1458,6 +1548,7 @@
           "type": "issue_comment",
           "body": "**The latest updates on your projects**. Learn more about [Vercel for Git ↗︎](https://vercel.link/github-learn-more)\n\n| Name | Status | Preview | Updated |\n| :--- | :----- | :------ | :------ |\n| **studio-docs** | ✅ Ready ([Inspect](https://vercel.com/zapper-fi/studio-docs/CPnAChCnc8V6eYYn7EpmSbp8MPrg)) | [Visit Preview](https://studio-docs-git-fork-amit0617-patch-1-zapper-fi.vercel.app) | May 5, 2022 at 10:18AM (UTC) |\n\n",
           "user": "vercel[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/8329?v=4",
           "created_at": "2022-05-05T10:17:35Z",
           "reactions": []
         },
@@ -1465,6 +1556,7 @@
           "type": "issue_comment",
           "body": "Thanks for catching this!",
           "user": "xdrdak",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1198051?v=4",
           "created_at": "2022-05-06T17:28:31Z",
           "reactions": []
         },
@@ -1472,6 +1564,7 @@
           "type": "review",
           "body": "",
           "user": "xdrdak",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1198051?u=14047d1769353c6e0a0611978dc2ea6dbe632f87&v=4",
           "reactions": []
         }
       ],
@@ -1504,6 +1597,7 @@
           "type": "issue_comment",
           "body": "just as an idea for the future workflow:\r\nIMHO creating a new issue, just to go ahead and fix it immediately in a PR which links to it, creates a lot of \"noise\", and it distributes the problem (compiler warning/output) and the fix (PR) across two different pages, which actually takes more effort to review it.\r\nWhy not simply open a PR which contains the fix and has the compiler warning in its description? All information is in one place, there are less emails flying around in everybodys inbox and it saves a bit of time for everybody.",
           "user": "cbielow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6008722?v=4",
           "created_at": "2022-05-05T09:47:42Z",
           "reactions": []
         },
@@ -1511,6 +1605,7 @@
           "type": "issue_comment",
           "body": "If you keep up the old workflow, you can open hundreds of issues (yes, we have that many compiler warnings)... Its just a bit too much, and it distracts from the higher level issues -- at least in my case.",
           "user": "cbielow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6008722?v=4",
           "created_at": "2022-05-05T09:49:53Z",
           "reactions": []
         },
@@ -1518,6 +1613,7 @@
           "type": "issue_comment",
           "body": "\r\n> just as an idea for the future workflow: IMHO creating a new issue, just to go ahead and fix it immediately in a PR which links to it, creates a lot of \"noise\", and it distributes the problem (compiler warning/output) and the fix (PR) across two different pages, which actually takes more effort to review it. Why not simply open a PR which contains the fix and has the compiler warning in its description? All information is in one place, there are less emails flying around in everybodys inbox and it saves a bit of time for everybody.\r\n\r\nOk will follow that one in future\r\nbut it had started this way that, I wasn't sure if i will really be fixing it or will be able to do that(knew nothing about Qt). So i just created issues for bringing attention towards it.\r\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-05-05T10:00:21Z",
           "reactions": []
         },
@@ -1525,6 +1621,7 @@
           "type": "issue_comment",
           "body": "> you can open hundreds of issues (yes, we have that many compiler warnings)... \r\n\r\nI don't think so atleast now there are just few more. (atleast for my gcc version, if that affects)",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-05-05T10:02:06Z",
           "reactions": []
         },
@@ -1532,6 +1629,7 @@
           "type": "review_comment",
           "body": "I think `auto` would have been the better choice here\r\n```\r\nfor (const auto& kv : ...\r\n```\r\n\r\nBut there will be a new PR coming up, which fixes a few other things (mostly naming of things as `it` which are not iterators), so just for future reference :)\r\n\r\n",
           "user": "cbielow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6008722?v=4",
           "created_at": "2022-05-05T09:43:52Z",
           "reactions": [
             "+1"
@@ -1541,12 +1639,14 @@
           "type": "review",
           "body": "Thanks!",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "cbielow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6008722?v=4",
           "reactions": []
         }
       ],
@@ -1627,12 +1727,14 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -1664,6 +1766,7 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -1695,12 +1798,14 @@
           "type": "review",
           "body": "looks correct to me",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -1731,6 +1836,7 @@
           "type": "issue_comment",
           "body": "introduced in Qt 4.4.",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-05-02T13:19:29Z",
           "reactions": []
         },
@@ -1738,12 +1844,14 @@
           "type": "review",
           "body": "looks good to me. I assume you checked that the new method was introduced in a Qt version we support.",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -1774,6 +1882,7 @@
           "type": "issue_comment",
           "body": "Is your contrib up to date?",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-04-30T08:54:38Z",
           "reactions": []
         },
@@ -1781,6 +1890,7 @@
           "type": "issue_comment",
           "body": "> Is your contrib up to date?\r\n\r\nNot when these pull requests were made. I spotted later. ",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-04-30T09:45:56Z",
           "reactions": []
         },
@@ -1788,6 +1898,7 @@
           "type": "issue_comment",
           "body": "Please update the submodules in your branch so they don’t show up as change",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-05-02T09:01:11Z",
           "reactions": []
         },
@@ -1795,6 +1906,7 @@
           "type": "issue_comment",
           "body": "I would be required to create fresh branch then\r\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-05-02T10:09:55Z",
           "reactions": []
         },
@@ -1802,6 +1914,7 @@
           "type": "issue_comment",
           "body": "no why? just take your branch, go in the submodule\r\ncheckout master there, commit that new hash in your local branch,\r\nand push to this PR\r\n",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-05-02T10:11:16Z",
           "reactions": [
             "+1"
@@ -1811,6 +1924,7 @@
           "type": "issue_comment",
           "body": "something like\r\n```\r\ncd contrib\r\ngit checkout master\r\ncd ..\r\ngit add contrib\r\ngit commit -m \"update contrib to master\"\r\ngit push origin develop19\r\n```",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-05-02T10:12:11Z",
           "reactions": [
             "+1"
@@ -1820,6 +1934,7 @@
           "type": "issue_comment",
           "body": "was introduced in Qt 4.2. I hope things would be compatible in forward direction.",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-05-02T13:09:42Z",
           "reactions": []
         },
@@ -1827,6 +1942,7 @@
           "type": "issue_comment",
           "body": "isn't there \"a way\" to use a particular version to compile things in Qt? So that if something is compiling without warnings or errors then it is version compatible\r\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-05-02T13:11:43Z",
           "reactions": []
         },
@@ -1834,6 +1950,7 @@
           "type": "review",
           "body": "looks good to me. I assume you checked that the new method was introduced in a Qt version we support.",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -1889,6 +2006,7 @@
           "type": "issue_comment",
           "body": "Thanks for the fixes @Amit0617 ",
           "user": "crosetto",
+          "avatar_url": "https://avatars.githubusercontent.com/u/1389784?v=4",
           "created_at": "2022-05-10T20:49:59Z",
           "reactions": [
             "heart"
@@ -1924,6 +2042,7 @@
           "type": "issue_comment",
           "body": "Thanks, but please follow at least a minimal standard for PR etiquette. E.g. a nice PR title plus at least one sentence of description.",
           "user": "jpfeuffer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8102638?v=4",
           "created_at": "2022-04-14T15:02:52Z",
           "reactions": [
             "+1"
@@ -1933,6 +2052,7 @@
           "type": "review",
           "body": "",
           "user": "jpfeuffer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8102638?u=bb06f84b154491d85eea2756e4af17911391aa42&v=4",
           "reactions": []
         }
       ],
@@ -2090,6 +2210,7 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2121,6 +2242,7 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2151,6 +2273,7 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2204,6 +2327,7 @@
           "type": "review_comment",
           "body": "this is not toSet()",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-22T15:15:00Z",
           "reactions": []
         },
@@ -2211,6 +2335,7 @@
           "type": "review_comment",
           "body": "It is.(atleast I am trying to look with wide open eyes)Why not?",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-22T15:19:15Z",
           "reactions": []
         },
@@ -2218,6 +2343,7 @@
           "type": "review_comment",
           "body": "And I have done for only those lines against which compiler was giving warnings\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-22T15:20:22Z",
           "reactions": [
             "+1"
@@ -2227,6 +2353,7 @@
           "type": "review_comment",
           "body": "sorry my bad :P",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-22T15:20:31Z",
           "reactions": []
         },
@@ -2234,30 +2361,35 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?u=f855329028ad846d62d80f4b6b1e19c4e9f9c8b5&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?u=f855329028ad846d62d80f4b6b1e19c4e9f9c8b5&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2337,6 +2469,7 @@
           "type": "issue_comment",
           "body": "oh that qsort() one just got merged and wasn't in my pull is creating conflict",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-22T06:29:36Z",
           "reactions": []
         },
@@ -2344,6 +2477,7 @@
           "type": "issue_comment",
           "body": "yeah went perfect for me\r\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-22T08:52:35Z",
           "reactions": []
         },
@@ -2351,6 +2485,7 @@
           "type": "issue_comment",
           "body": "I don't think this compiles... please check.",
           "user": "cbielow",
+          "avatar_url": "https://avatars.githubusercontent.com/u/6008722?v=4",
           "created_at": "2022-03-22T08:55:05Z",
           "reactions": []
         },
@@ -2358,6 +2493,7 @@
           "type": "issue_comment",
           "body": "I added a comment to change it so it recompiles and here it is going silently.\r\n```\r\n[  1%] Built target OpenSwathAlgo\r\n[  1%] Automatic MOC for target OpenMS\r\n[  1%] Built target OpenMS_autogen\r\n[  1%] Building CXX object src/openms/CMakeFiles/OpenMS.dir/source/CONCEPT/VersionInfo.cpp.o\r\n[  1%] Linking CXX shared library ../../lib/libOpenMS.so\r\n[ 28%] Built target OpenMS\r\n[ 28%] Automatic MOC for target OpenMS_GUI\r\n[ 28%] Built target OpenMS_GUI_autogen\r\nConsolidate compiler generated dependencies of target OpenMS_GUI\r\n[ 28%] Building CXX object src/openms_gui/CMakeFiles/OpenMS_GUI.dir/source/VISUAL/APPLICATIONS/TOPPASBase.cpp.o\r\n[ 28%] Linking CXX shared library ../../lib/libOpenMS_GUI.so\r\n[ 35%] Built target OpenMS_GUI\r\n[ 36%] Automatic MOC for target INIFileEditor\r\n```",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-22T09:06:33Z",
           "reactions": []
         },
@@ -2365,6 +2501,7 @@
           "type": "issue_comment",
           "body": "May be I got that \r\nChanges\r\n```\r\n    QStringList category_list;\r\n    category_list(category_list.begin(), category_list.end());\r\n```\r\nnow it throws error\r\n```\r\nerror: no match for call to ‘(QStringList) (QList<QString>::iterator, QList<QString>::iterator)’\r\n  489 |     category_list(category_list.begin(), category_list.end());\r\n      |     ~~~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\r\n\r\n```\r\nSo `begin()` and `end()` in `category_list` ",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-22T09:12:07Z",
           "reactions": []
         },
@@ -2372,6 +2509,7 @@
           "type": "issue_comment",
           "body": "it doesn't make sense to construct the list with itself",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-22T09:34:08Z",
           "reactions": [
             "+1"
@@ -2381,6 +2519,7 @@
           "type": "issue_comment",
           "body": "I sometimes become blind",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-22T09:50:32Z",
           "reactions": [
             "laugh"
@@ -2390,12 +2529,14 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "did you compile this. looks wrong",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2426,6 +2567,7 @@
           "type": "review_comment",
           "body": "Hi, would\r\n```suggestion\r\n    std::sort(category_list.begin(), category_list.end());\r\n```\r\nalso work? I think QString defines an operator<",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-21T18:06:54Z",
           "reactions": []
         },
@@ -2433,6 +2575,7 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2463,6 +2606,7 @@
           "type": "issue_comment",
           "body": "Looks correct to me.\r\n@cbielow any objections?",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-21T12:04:50Z",
           "reactions": []
         }
@@ -2495,6 +2639,7 @@
           "type": "review_comment",
           "body": "Can you please add a comment on which warning this is suppressing and why or when it can be removed.",
           "user": "jpfeuffer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8102638?v=4",
           "created_at": "2022-03-20T21:02:51Z",
           "reactions": [
             "+1"
@@ -2504,12 +2649,14 @@
           "type": "review",
           "body": "",
           "user": "jpfeuffer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8102638?u=bb06f84b154491d85eea2756e4af17911391aa42&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2542,6 +2689,7 @@
           "type": "issue_comment",
           "body": "Starting IniFileEditor displays the widget. Might be good to double check.",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-20T09:44:58Z",
           "reactions": []
         },
@@ -2549,6 +2697,7 @@
           "type": "issue_comment",
           "body": "sorry? i didn't understood\r\n",
           "user": "Amit0617",
+          "avatar_url": "https://avatars.githubusercontent.com/u/71893015?v=4",
           "created_at": "2022-03-20T15:16:49Z",
           "reactions": []
         },
@@ -2556,6 +2705,7 @@
           "type": "issue_comment",
           "body": "No worries. Just wanted to mention that this tool uses the code. ",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-20T15:19:11Z",
           "reactions": []
         },
@@ -2563,6 +2713,7 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2616,6 +2767,7 @@
           "type": "issue_comment",
           "body": "looks good. I will merge and we can check in nightly builds if it fixes the issue",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-19T10:32:12Z",
           "reactions": []
         }
@@ -2647,6 +2799,7 @@
           "type": "issue_comment",
           "body": "rebuild jenkins",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-18T07:27:04Z",
           "reactions": []
         },
@@ -2654,6 +2807,7 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2683,6 +2837,7 @@
           "type": "review",
           "body": "",
           "user": "jpfeuffer",
+          "avatar_url": "https://avatars.githubusercontent.com/u/8102638?u=bb06f84b154491d85eea2756e4af17911391aa42&v=4",
           "reactions": []
         }
       ],
@@ -2714,6 +2869,7 @@
           "type": "issue_comment",
           "body": "thanks!",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-14T09:38:12Z",
           "reactions": [
             "heart"
@@ -2723,6 +2879,7 @@
           "type": "review_comment",
           "body": "duplicate include",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?v=4",
           "created_at": "2022-03-14T07:11:20Z",
           "reactions": [
             "+1"
@@ -2732,12 +2889,14 @@
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "",
           "user": "timosachsenberg",
+          "avatar_url": "https://avatars.githubusercontent.com/u/5803621?u=05657099b2554bf45d24eb1604bcbd2396b6d498&v=4",
           "reactions": []
         }
       ],
@@ -2794,6 +2953,7 @@
           "type": "issue_comment",
           "body": "thanks",
           "user": "ripienaar",
+          "avatar_url": "https://avatars.githubusercontent.com/u/82342?v=4",
           "created_at": "2022-03-11T13:50:17Z",
           "reactions": [
             "heart"
@@ -2803,6 +2963,7 @@
           "type": "review_comment",
           "body": "Can probably just drop the “(formally …)” bit and also update the name in tbe description area",
           "user": "ripienaar",
+          "avatar_url": "https://avatars.githubusercontent.com/u/82342?v=4",
           "created_at": "2022-03-10T17:09:16Z",
           "reactions": [
             "+1"
@@ -2812,6 +2973,7 @@
           "type": "review",
           "body": "",
           "user": "ripienaar",
+          "avatar_url": "https://avatars.githubusercontent.com/u/82342?v=4",
           "reactions": []
         }
       ],
@@ -2844,6 +3006,7 @@
           "type": "issue_comment",
           "body": "###  🦋  Changeset detected\n\nLatest commit: 928210474c1e3e96e04ebdeb92569e12b495175d\n\n**The changes in this PR will be included in the next version bump.**\n\n<details><summary>This PR includes changesets to release 1 package</summary>\n\n  | Name    | Type  |\n| ------- | ----- |\n| hardhat | Patch |\n\n</details>\n\nNot sure what this means? [Click here  to learn what changesets are](https://github.com/changesets/changesets/blob/master/docs/adding-a-changeset.md).\n\n[Click here if you're a maintainer who wants to add another changeset to this PR](https://github.com/Amit0617/hardhat/new/patch-3?filename=.changeset/silver-buckets-rest.md&value=---%0A%22hardhat%22%3A%20patch%0A%22docs%22%3A%20patch%0A---%0A%0AUpdate%20default-config.ts%0A)\n\n",
           "user": "changeset-bot[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/28616?v=4",
           "created_at": "2021-12-16T08:43:35Z",
           "reactions": []
         },
@@ -2851,6 +3014,7 @@
           "type": "issue_comment",
           "body": "Thank you @Amit0617!",
           "user": "fvictorio",
+          "avatar_url": "https://avatars.githubusercontent.com/u/417134?v=4",
           "created_at": "2022-01-12T15:43:40Z",
           "reactions": [
             "heart"
@@ -2860,6 +3024,7 @@
           "type": "review",
           "body": "",
           "user": "alcuadrado",
+          "avatar_url": "https://avatars.githubusercontent.com/u/176499?u=727c007c0698f1632e98401987d52b129fcf1474&v=4",
           "reactions": []
         }
       ],
@@ -2966,6 +3131,7 @@
           "type": "issue_comment",
           "body": "## Nice work\n\n![celebrate](https://octodex.github.com/images/collabocats.jpg)\n\nCongratulations @Amit0617, you've completed this course!\n\n## What went well\n\nNow, you have your slide deck deployed [here](https://amit0617.github.io/github-slideshow/) and you've gone through the GitHub Flow.\n\nBefore I say good-bye, here's a recap of all the tasks you've accomplished in your repository:\n\n- You learned about issues, pull requests, and the structure of a GitHub repository\n- You learned about branching\n- You created a commit\n- You viewed and responded to pull request reviews\n- You edited an existing file\n- You enabled GitHub Pages\n- You made your first contribution! :tada:  \n\n## Give us feedback\n\nWe'd love to hear what you thought of this course. Please share your feedback in [this brief survey](https://www.surveymonkey.com/r/intro-to-github-1).\n\n## What's next?\n\nWe hope this course helped you feel more comfortable using GitHub. Remember: You’re always welcome to repeat course topics if you’d like additional practice. If you’re ready to build on your new skills, here are some ideas.\n\n### Contribute to a project\n\nTo find projects to contribute to through trending topics and curated collections, check out [GitHub Explore](https://github.com/explore).\n\n### Keep learning\n\nHere are some suggestions for future courses you can take:\n- [GitHub Pages](https://lab.github.com/githubtraining/github-pages): Continue learning about GitHub Pages, which we touched on in this course.\n- [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown): We used a little Markdown in this course, but if you want to learn all about this :sparkles: syntax, take the course!\n\n[What will you learn next](https://lab.github.com/courses)?\n",
           "user": "github-learning-lab[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/10572?v=4",
           "created_at": "2020-09-28T07:59:55Z",
           "reactions": []
         },
@@ -2973,18 +3139,21 @@
           "type": "review",
           "body": "I was expecting your file to be named **_posts/0000-01-02-Amit0617.md**. \n\nLet's edit this pull request to fix both of these issues.\n\n## :keyboard: Activity: Fixing your pull request\n\n\n1. Click the [Files Changed tab](https://github.com/Amit0617/github-slideshow/pull/3/files) in this pull request.\n1. Verify that the only file edited is named `_posts/0000-01-02-Amit0617.md`.\n1. If the file is improperly named, or not in a proper location, use the edit function to correct it. \n1. Above the contents of the file, select all text in the field that contains the filename and delete it.\n1. Continue pressing your backspace key to also delete any directory names that exist.\n1. Type the proper filename:\n    ```shell\n    _posts/0000-01-02-Amit0617.md\n    ```\n1. Scroll to the bottom and enter a commit message and commit in the **Commit Changes** section.\n\n\n**Note**: Can't find the button to edit the file? It may look like a pencil, or it may look like three dots.\n\nIf you would like assistance troubleshooting the issue you are encountering, create a post on the [GitHub Community](https://github.community/t5/GitHub-Learning-Lab/bd-p/learn) board. You might also want to search for your issue to see if other people have resolved it in the past.\n\n<hr>\n<h3 align=\"center\">I'll respond below when I detect a commit on this branch.</h3>\n",
           "user": "github-learning-lab[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/10572?v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "## Step 7: Respond to a review\n\nYour pull request is looking great!\n\nLet’s add some content to your file. Replace line 5 of your file with a quotation or meme and witty caption. Remember: [Markdown](https://guides.github.com/features/mastering-markdown/) is supported.\n\n### :keyboard: Activity: Change your file\n\n\n1. Click the [Files Changed tab](https://github.com/Amit0617/github-slideshow/pull/3/files) in this pull request\n1. Edit your newly added file\n1. Replace line 5 with something new\n1. Scroll to the bottom and click **Commit Changes**\n\n\n**Note** : Can't find the button to edit the file? It may look like a pencil, or it may look like three dots.\n\n<hr>\n<h3 align=\"center\">I'll respond when I detect a commit on this branch.</h3>\n",
           "user": "github-learning-lab[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/10572?v=4",
           "reactions": []
         },
         {
           "type": "review",
           "body": "## Step 8: Merge your pull request\n\nNicely done @Amit0617! :sparkles:\n\nYou successfully created a pull request, and it has passed all of the tests. You can now merge your pull request.\n\n### :keyboard: Activity: Merge the pull request\n\n\n1. Click **Merge pull request**\n1. Click **Confirm merge**\n\n1. Once your branch has been merged, you don't need it anymore. Click **Delete branch**.\n\n<hr>\n<h3 align=\"center\">I'll respond when this pull request is merged.</h3>\n",
           "user": "github-learning-lab[bot]",
+          "avatar_url": "https://avatars.githubusercontent.com/in/10572?v=4",
           "reactions": []
         }
       ],

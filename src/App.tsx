@@ -157,7 +157,7 @@ export default function Timeline() {
         {appreciationComments.map((f, idx) => (
           <GitHubComment
             key={idx}
-            user={f.user || "unknown"}
+            user={f.user || "You"}
             avatar_url={
               f.avatar_url || "https://www.gravatar.com/avatar/?d=mp&s=40"
             }
