@@ -29,6 +29,8 @@ type GitHubCommentProps = {
   created_at?: string;
   reactions?: Array<keyof typeof reactionMap>;
   prUrl: string;
+  isFirst: boolean;
+  isLast: boolean
 };
 
 // function to parse mentions like @username
@@ -54,6 +56,8 @@ function GitHubComment({
   reactions = [],
   prUrl,
   avatar_url,
+  isFirst = false,
+  isLast = false,
 }: GitHubCommentProps) {
   const reactionCounts = useMemo(() => {
     return reactions.reduce<Record<string, number>>((acc, r) => {
@@ -64,8 +68,13 @@ function GitHubComment({
 
   return (
     <div className="relative">
-      {/* Timeline line */}
-      <div className="absolute top-0 bottom-0 -my-4 left-3 w-0.5 bg-gray-200 z-0" />
+      {/* Vertical timeline line */}
+      <div
+        className={`
+          absolute left-3 w-0.5 bg-gray-200 bottom-0 z-0 -my-4
+          ${isFirst ? "top-1/2" : "top-0"}
+        `}
+      />
 
       {/* Comment card */}
       <motion.div
@@ -138,6 +147,11 @@ function GitHubComment({
           </div>
         )}
       </motion.div>
+
+      {/* Horizontal cap line for last comment */}
+      {isLast && (
+        <div className="absolute -ml-1 pt-1 w-full bg-gray-200" />
+      )}
     </div>
   );
 }

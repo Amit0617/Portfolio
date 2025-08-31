@@ -158,11 +158,15 @@ export default function Timeline() {
           <GitHubComment
             key={idx}
             user={f.user || "unknown"}
-            avatar_url={f.avatar_url || "https://www.gravatar.com/avatar/?d=mp&s=40"}
+            avatar_url={
+              f.avatar_url || "https://www.gravatar.com/avatar/?d=mp&s=40"
+            }
             body={f.body}
             reactions={f.reactions}
             prUrl={f.prUrl}
             created_at={f.created_at}
+            isFirst={idx === 0}
+            isLast={idx === appreciationComments.length - 1}
           />
         ))}
       </SectionView>
