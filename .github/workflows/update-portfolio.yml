@@ -21,7 +21,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ github.token }}
           GITHUB_USER: ${{ github.actor }}
-        run: node scripts/update_portfolio.js
+        run: node scripts/update-portfolio.js
 
       - name: Commit and push
         run: |

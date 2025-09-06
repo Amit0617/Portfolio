@@ -120,11 +120,11 @@ export default function Timeline() {
         title: `${username} was appreciated ${appreciationComments.length} times 🎉`,
         icon: "👏",
       },
-      {
-        key: "fastlane",
-        title: "Fast Lane Shipper 🏎️",
-        icon: "🏁",
-      },
+      // {
+      //   key: "fastlane",
+      //   title: "Fast Lane Shipper 🏎️",
+      //   icon: "🏁",
+      // },
     ];
 
     return (
